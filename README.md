@@ -7,8 +7,6 @@
   
 <div style="display: inline_block"><br>
 
-https://user-images.githubusercontent.com/103944344/164689097-a7174d43-69ac-4ba8-95f2-18e1448a95e8.mp4
-
 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -38,5 +36,5 @@ https://user-images.githubusercontent.com/103944344/164691244-446e65df-71c3-434e
 com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  (https://user-images.githubusercontent.com/103944344/164691804-277a2591-87d2-4e95-9bf1-02fd9f1c52a6.mp4)
+
 </div>
