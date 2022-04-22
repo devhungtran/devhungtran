@@ -1,7 +1,7 @@
 ##  𝙬𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙙𝙚𝙫𝙝𝙪𝙣𝙜𝙩𝙧𝙖𝙣'𝙨 𝙥𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙖𝙜𝙚 !!!
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devhungtran&theme=tokyonight&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devhungtran&theme=codeSTACKr&show_icons=true"/>
 </div>
 <div style="display: inline_block"><br>
