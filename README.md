@@ -16,6 +16,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103944344/164694266-0a84ce63-c174-444a-8770-c67c3a1763fd.jpg">
 
+![video](https://user-images.githubusercontent.com/103944344/170822910-b07fd171-947b-44b2-bf60-162d168706be.gif)
 
 
 
