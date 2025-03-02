@@ -15,7 +15,6 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103944344/164694266-0a84ce63-c174-444a-8770-c67c3a1763fd.jpg">
 
 ![video](https://user-images.githubusercontent.com/103944344/170822910-b07fd171-947b-44b2-bf60-162d168706be.gif)
-https://user-images.githubusercontent.com/103944344/170822591-532190f9-f761-40ff-83e8-58080f3133b5.mp4
 </div>
 <div> 
   <a href="https://www.youtube.com/channel/devhungtran" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
