@@ -11,8 +11,6 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
@@ -44,25 +42,25 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td></td>
+      <td>/td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
